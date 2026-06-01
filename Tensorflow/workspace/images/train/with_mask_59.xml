@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>with_mask_59.jpg</filename>
+	<path>D:\opencv\CV\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\with_mask_59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>94</width>
+		<height>123</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>56</ymin>
+			<xmax>94</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>

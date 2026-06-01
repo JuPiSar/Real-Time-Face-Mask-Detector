@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>without_mask_14.jpg</filename>
+	<path>D:\opencv\CV\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\without_mask_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>115</width>
+		<height>128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>73</ymin>
+			<xmax>112</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>
